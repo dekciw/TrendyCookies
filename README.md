@@ -1,4 +1,6 @@
-<h1 align="center">TrendyCookies</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="420" alt="Trendy Cookies">
+</p>
 
 <p align="center">
   <b>Лендинг магазина печенья Trendy cookies на Angular: каталог с сервера, фильтр «без сахара», смена валюты и форма заказа.</b>
